@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temp Word files
+~$*.docx
+
+# Entornos virtuales (por si acaso)
+venv/
+env/
+.env
+
+# Otros
+.DS_Store
