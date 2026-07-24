@@ -13,3 +13,6 @@ env/
 
 # Otros
 .DS_Store
+
+# Ignorar llaves/rostros de acceso local
+data/faces/llave.jpg
