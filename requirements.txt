@@ -1,0 +1,6 @@
+deepface==0.0.92
+opencv-python
+matplotlib
+pandas
+tf-keras
+PyQt6
