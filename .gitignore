@@ -16,3 +16,6 @@ env/
 
 # Ignorar llaves/rostros de acceso local
 data/faces/llave.jpg
+
+# Ignorar documentos de Word
+*.docx
